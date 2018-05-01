@@ -2,6 +2,7 @@ package com.example.antonio.cartao_visita.feature;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -42,8 +43,4 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
     }
 
-    public void push(View view) {
-        TextView = findViewById();
-        labelName.
-    }
 }
